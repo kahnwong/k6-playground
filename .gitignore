@@ -3,3 +3,6 @@ test_results.gz
 
 # python
 .ipynb_checkpoints/
+
+# binary
+k6
